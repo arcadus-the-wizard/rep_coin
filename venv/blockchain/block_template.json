@@ -1,0 +1,19 @@
+{
+  "title": "Block",
+  "description": "The structure of a block in the blockchain",
+
+  "properties": {
+    "block": {
+      "hash": "hash of current block",
+      "prev_hash": "has of previous block",
+      "id": "ID of current block",
+      "transactions": [
+        {
+          "txn": "ID of first transaction in block...",
+       },
+       {
+          "txn": "ID of second transaction in block..."
+        }
+      ]
+    }
+}}

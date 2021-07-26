@@ -1,0 +1,11 @@
+{
+  "title": "Identity",
+  "description": "A piece of identifiable information, used to prove ones identity",
+
+  "properties": {
+    "id": "identity id",
+    "nym": "owner's nym",
+    "name": "user-defined name",
+    "version": "version, increased whenever the identity is updated"
+  }
+}

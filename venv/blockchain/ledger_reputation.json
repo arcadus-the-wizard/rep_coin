@@ -1,0 +1,15 @@
+{
+  "title": "Tokens Ledger",
+  "description": "Append-only ledger that all tokens are added to",
+
+  "properties": {
+    "transactions": [
+      {
+        "serial": "Serial number of first token added..."
+      },
+      {
+        "serial": "Serial number of second token added..."
+      }
+    ]
+  }
+}

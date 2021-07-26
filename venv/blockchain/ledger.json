@@ -1,0 +1,15 @@
+{
+  "title": "Ledger",
+  "description": "Append-only ledger that all transactions are added to",
+
+  "properties": {
+    "transactions": [
+      {
+        "trx_id": "ID of first transaction in ledger..."
+      },
+      {
+        "trx_id": "ID of second transaction in ledger..."
+      }
+    ]
+  }
+}

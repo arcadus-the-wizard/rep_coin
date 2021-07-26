@@ -1,0 +1,14 @@
+{
+  "title": "Transaction",
+  "description": "A template schema for how a transaction within a block will be formatted",
+
+  "properties": {
+    "txn": {
+      "amt": "amount being sent",
+      "fee": "transaction fee",
+      "snd": "sender",
+      "rec": "receiver",
+      "type": "type of transaction",
+      "id": "transaction ID",
+    }
+}}

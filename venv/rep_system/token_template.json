@@ -1,0 +1,11 @@
+{
+  "title": "Token",
+  "description": "A reputation token",
+
+  "properties": {
+    "r": "random r",
+    "key": "secret key",
+    "serial": "serial number",
+    "rep": "user's reputation value"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Document",
+  "description": "A blockchain representation of a user's physical identifying document",
+
+  "properties": {
+    "name": "name",
+    "nym": "owner's nym",
+    "ids": [
+      {
+        "id": "ID of first piece of identifiable information..."
+      },
+      {
+        "id": "ID of second piece of identifiable information..."
+      }
+    ]
+  }
+}
