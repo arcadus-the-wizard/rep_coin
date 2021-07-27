@@ -11,12 +11,6 @@ class Node:
         self.User = User
         self.User.add_node(serial_number)
 
-    def proof_of_stake(self, last_proof):
-        '''
-        A proof of stake mining model
-        '''
-        pass
-
     def mine(self):
         self.last_block = Blockchain.last_block()
         self.last_proof = self.last_block['proof']
